@@ -8,4 +8,4 @@ I mean I guess I have some repositories if you want to check them out.
 * SimpleVanish is also another useful plugin. Its goal was to be a much lighter-weight vanish plugin for servers with limited resources.
 
 That's all, have a great day!
-(By the way, if you want to contact me, my Discord is: **Jaws#0456**.)
+(By the way, if you want to contact me, my Discord is: **Blurmit#3152**.)
