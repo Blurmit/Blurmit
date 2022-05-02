@@ -7,6 +7,6 @@ I'm a Java developer. I mainly create Minecraft plugins. I'm also helping develo
 
 **Recommended Projects:**
 * If you're looking for a fun plugin to mess around with friends recommend MeteorShower.
-* SimpleVanish is also another useful plugin. Its goal was to be a much lighter-weight vanish plugin for servers with limited resources.
+* If you're looking for something useful for many types of servers, I recommend ChatEmojis. It's a truly useful and easy to use plugin that can be used on nearly any server!
 
 That's all, have a great day!
