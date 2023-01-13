@@ -1,11 +1,9 @@
 ### Hey there! I'm Blurmit 😄
 
-I'm a Java developer. I mainly create Minecraft plugins. I'm also helping develop a programming language called [JPizza](https://github.com/Lemon-Chad/JPizza)
+I'm a Java developer. I mainly create Minecraft plugins. I'm 
+helping develop a programming language called [JPizza](https://github.com/Lemon-Chad/JPizza)
 
 **Current Projects:**
-* I'm currently working on a Minecraft plugin called Basics. It's goal aims to be something similar to EssentialsX, but with a lot more useful features/commands along with staying fairly lightweight.
-
-**Recommended Projects:**
-* If you're looking for something useful for many types of servers, I recommend ChatEmojis. It's a truly useful and easy to use plugin that can be used on nearly any server!
+* I'm currently working on a Minecraft plugin called Basics. It is a core plugin for Minecraft servers that has more modern implementation of server utilities
 
 That's all, have a great day!
